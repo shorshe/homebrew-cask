@@ -1,6 +1,6 @@
 cask 'sigil' do
-  version '0.9.7'
-  sha256 '539801d7c35b0f3e7a393f5ce16bded49755bbe5f2fa4c7cfd23d653d8b0e968'
+  version '0.9.8'
+  sha256 'cd54a70314df223bad7a1c6d5322b012ddf3402ead14e11b88372165ca66decf'
 
   # github.com/Sigil-Ebook/Sigil was verified as official when first introduced to the cask
   url "https://github.com/Sigil-Ebook/Sigil/releases/download/#{version}/Sigil-#{version}-Mac-Package.dmg"
